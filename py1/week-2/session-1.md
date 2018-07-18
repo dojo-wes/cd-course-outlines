@@ -1,4 +1,4 @@
-# Intro to ERDs and Workbench
+# Intro to MySQL, ERDs, and Workbench
 
 ## Main Topics
 - What is an ERD and why do we need it?
