@@ -11,3 +11,10 @@
   - SELECT
   - UPDATE
   - WHERE/JOIN????
+- Intro to relationships (Instagram)
+  - Types of relationships
+    1. One-to-One
+    2. One-to-Many
+    3. Many-to-Many
+
+### Next time be ready to discuss: Normalization, JOINS, Many-to-Many Relationships
