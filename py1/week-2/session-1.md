@@ -5,7 +5,7 @@
 - How do we use an ERD to create a database?
 - Why do we even want a database anyway?
 - Basic ERD creation of simple single-table db.
-- Intro to simple SQL syntax and practice.
+- Intro to simple SQL syntax and practice (full CRUD).
   - INSERT
   - DELETE
   - SELECT
