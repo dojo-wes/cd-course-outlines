@@ -12,4 +12,4 @@
   - Build AJAX ready api routes.
   - Work with template inheritance.
 
-### Next time we will be reviewing the belt-exam expectations and discussing optional next-steps.
+### Next time we will be reviewing the belt-exam expectations, deployment, and discussing optional next-steps.
