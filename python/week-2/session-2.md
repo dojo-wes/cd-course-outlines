@@ -1,16 +1,16 @@
 # Joins, Aggregate Functions, Many-to-Many Relationships
 
 ## Main Topics
+- Many-to-Many Relationships (recipes/ingredients)
+  - Intermediary Tables
 - How do we traverse relationships?
   - JOIN
   - LEFT JOIN
   - Other JOINs
-- Many-to-Many Relationships (recipes/ingredients)
 - SELF JOINs
   - Enhance complexity of schema by creating concept of followers.
 - Aggregate Functions
   - Count
-  - Avg
 - Practice
   - Build ability to "favorite" photos.
 
